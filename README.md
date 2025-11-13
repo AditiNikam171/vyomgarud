@@ -29,7 +29,7 @@ Unsplash Images
 screenshots-
 
 ![home page](<screenshots/Screenshot 2025-11-13 192239.png>)
-![About](<screenshots\Screenshot 2025-11-13 192239.png>)
-![capabilities](<screenshots\Screenshot 2025-11-13 192313.png>)
-![Why](<screenshots\Screenshot 2025-11-13 192313.png>)
-![contact](<screenshots\Screenshot 2025-11-13 192352.png>)
+![About](<screenshots/Screenshot 2025-11-13 192258.png>)
+![capabilities](<screenshots/Screenshot 2025-11-13 192313.png>)
+![Why](<screenshots/Screenshot 2025-11-13 192335.png>)
+![contact](<screenshots/Screenshot 2025-11-13 192352.png>)
