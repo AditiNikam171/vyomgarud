@@ -37,7 +37,7 @@ The design follows a **military-industrial aesthetic** with modern web design pr
 5. **Subtle Motion** - Animations are purposeful, not distracting
 
 #### Color Palette
-```css
+
 Primary Background: #1a1a1a (Charcoal)
 Secondary Background: #0f0f0f (Darker Charcoal)
 Primary Text: #ffffff (White)
